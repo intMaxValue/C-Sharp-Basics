@@ -1,0 +1,13 @@
+C:\Users\Skynet\source\repos\Greeting by name\bin\Debug\netcoreapp3.1\Greeting by name.exe
+C:\Users\Skynet\source\repos\Greeting by name\bin\Debug\netcoreapp3.1\Greeting by name.deps.json
+C:\Users\Skynet\source\repos\Greeting by name\bin\Debug\netcoreapp3.1\Greeting by name.runtimeconfig.json
+C:\Users\Skynet\source\repos\Greeting by name\bin\Debug\netcoreapp3.1\Greeting by name.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Greeting by name\bin\Debug\netcoreapp3.1\Greeting by name.dll
+C:\Users\Skynet\source\repos\Greeting by name\bin\Debug\netcoreapp3.1\Greeting by name.pdb
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.dll
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.pdb
+C:\Users\Skynet\source\repos\Greeting by name\obj\Debug\netcoreapp3.1\Greeting by name.genruntimeconfig.cache
