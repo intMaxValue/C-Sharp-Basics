@@ -1,0 +1,13 @@
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.exe
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.deps.json
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.runtimeconfig.json
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.dll
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\bin\Debug\netcoreapp3.1\usdToBgn.pdb
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.dll
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.pdb
+C:\Users\Skynet\source\repos\usdToBgn\usdToBgn\obj\Debug\netcoreapp3.1\usdToBgn.genruntimeconfig.cache
