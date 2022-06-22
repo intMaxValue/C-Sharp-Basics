@@ -1,0 +1,4 @@
+C:\Users\Skynet\source\repos\Pet Shop\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Pet Shop\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Pet Shop\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Pet Shop\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.csproj.CoreCompileInputs.cache
