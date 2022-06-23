@@ -1,0 +1,13 @@
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\bin\Debug\netcoreapp3.1\Vacation Books List.exe
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\bin\Debug\netcoreapp3.1\Vacation Books List.deps.json
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\bin\Debug\netcoreapp3.1\Vacation Books List.runtimeconfig.json
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\bin\Debug\netcoreapp3.1\Vacation Books List.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\bin\Debug\netcoreapp3.1\Vacation Books List.dll
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\bin\Debug\netcoreapp3.1\Vacation Books List.pdb
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.dll
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.pdb
+C:\Users\Skynet\source\repos\Vacation Books List\Vacation Books List\obj\Debug\netcoreapp3.1\Vacation Books List.genruntimeconfig.cache
