@@ -1,0 +1,13 @@
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.exe
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.deps.json
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.json
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.dll
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\bin\Debug\netcoreapp3.1\OddOrEven.pdb
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.dll
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.pdb
+C:\Users\Skynet\source\repos\Lekciq2\OddOrEven\obj\Debug\netcoreapp3.1\OddOrEven.genruntimeconfig.cache
