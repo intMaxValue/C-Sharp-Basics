@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\bin\Debug\netcoreapp3.1\AreaShapes.exe
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\bin\Debug\netcoreapp3.1\AreaShapes.deps.json
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\bin\Debug\netcoreapp3.1\AreaShapes.runtimeconfig.json
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\bin\Debug\netcoreapp3.1\AreaShapes.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\bin\Debug\netcoreapp3.1\AreaShapes.dll
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\bin\Debug\netcoreapp3.1\AreaShapes.pdb
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.dll
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.pdb
+C:\Users\Skynet\source\repos\Lekciq2\AreaShapes\obj\Debug\netcoreapp3.1\AreaShapes.genruntimeconfig.cache
