@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.exe
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.deps.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.genruntimeconfig.cache

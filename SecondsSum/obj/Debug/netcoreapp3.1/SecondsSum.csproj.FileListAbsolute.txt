@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\bin\Debug\netcoreapp3.1\SecondsSum.exe
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\bin\Debug\netcoreapp3.1\SecondsSum.deps.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\bin\Debug\netcoreapp3.1\SecondsSum.runtimeconfig.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\bin\Debug\netcoreapp3.1\SecondsSum.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\bin\Debug\netcoreapp3.1\SecondsSum.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\bin\Debug\netcoreapp3.1\SecondsSum.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SecondsSum\obj\Debug\netcoreapp3.1\SecondsSum.genruntimeconfig.cache
