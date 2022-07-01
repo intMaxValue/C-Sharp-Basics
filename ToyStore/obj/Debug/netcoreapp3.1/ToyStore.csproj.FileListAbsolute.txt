@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\bin\Debug\netcoreapp3.1\ToyStore.exe
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\bin\Debug\netcoreapp3.1\ToyStore.deps.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\bin\Debug\netcoreapp3.1\ToyStore.runtimeconfig.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\bin\Debug\netcoreapp3.1\ToyStore.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\bin\Debug\netcoreapp3.1\ToyStore.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\bin\Debug\netcoreapp3.1\ToyStore.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\ToyStore\obj\Debug\netcoreapp3.1\ToyStore.genruntimeconfig.cache

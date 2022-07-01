@@ -1,0 +1,13 @@
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.exe
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.deps.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\bin\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\GodzillaVsKong\obj\Debug\netcoreapp3.1\GodzillaVsKong.genruntimeconfig.cache

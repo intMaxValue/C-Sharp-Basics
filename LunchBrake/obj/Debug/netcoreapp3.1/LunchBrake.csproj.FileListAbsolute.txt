@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\bin\Debug\netcoreapp3.1\LunchBrake.exe
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\bin\Debug\netcoreapp3.1\LunchBrake.deps.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\bin\Debug\netcoreapp3.1\LunchBrake.runtimeconfig.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\bin\Debug\netcoreapp3.1\LunchBrake.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\bin\Debug\netcoreapp3.1\LunchBrake.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\bin\Debug\netcoreapp3.1\LunchBrake.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.genruntimeconfig.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\LunchBrake\obj\Debug\netcoreapp3.1\LunchBrake.csproj.AssemblyReference.cache
