@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\bin\Debug\netcoreapp3.1\SwimingWorldRecord.exe
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\bin\Debug\netcoreapp3.1\SwimingWorldRecord.deps.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\bin\Debug\netcoreapp3.1\SwimingWorldRecord.runtimeconfig.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\bin\Debug\netcoreapp3.1\SwimingWorldRecord.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\bin\Debug\netcoreapp3.1\SwimingWorldRecord.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\bin\Debug\netcoreapp3.1\SwimingWorldRecord.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.dll
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.pdb
+C:\Users\Skynet\source\repos\UprajnenineUslovniKonstrukcii\SwimingWorldRecord\obj\Debug\netcoreapp3.1\SwimingWorldRecord.genruntimeconfig.cache
