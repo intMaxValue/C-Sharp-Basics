@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\bin\Debug\netcoreapp3.1\AnimalClass.exe
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\bin\Debug\netcoreapp3.1\AnimalClass.deps.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\bin\Debug\netcoreapp3.1\AnimalClass.runtimeconfig.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\bin\Debug\netcoreapp3.1\AnimalClass.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\bin\Debug\netcoreapp3.1\AnimalClass.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\bin\Debug\netcoreapp3.1\AnimalClass.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\AnimalClass\obj\Debug\netcoreapp3.1\AnimalClass.genruntimeconfig.cache

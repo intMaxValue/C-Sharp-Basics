@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\bin\Debug\netcoreapp3.1\TitleAndAge.exe
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\bin\Debug\netcoreapp3.1\TitleAndAge.deps.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\bin\Debug\netcoreapp3.1\TitleAndAge.runtimeconfig.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\bin\Debug\netcoreapp3.1\TitleAndAge.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\bin\Debug\netcoreapp3.1\TitleAndAge.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\bin\Debug\netcoreapp3.1\TitleAndAge.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\TitleAndAge\obj\Debug\netcoreapp3.1\TitleAndAge.genruntimeconfig.cache
