@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\bin\Debug\netcoreapp3.1\WorkingTime.exe
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\bin\Debug\netcoreapp3.1\WorkingTime.deps.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\bin\Debug\netcoreapp3.1\WorkingTime.runtimeconfig.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\bin\Debug\netcoreapp3.1\WorkingTime.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\bin\Debug\netcoreapp3.1\WorkingTime.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\bin\Debug\netcoreapp3.1\WorkingTime.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingTime\obj\Debug\netcoreapp3.1\WorkingTime.genruntimeconfig.cache
