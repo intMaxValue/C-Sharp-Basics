@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\bin\Debug\netcoreapp3.1\WorkingDayOrNot.exe
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\bin\Debug\netcoreapp3.1\WorkingDayOrNot.deps.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\bin\Debug\netcoreapp3.1\WorkingDayOrNot.runtimeconfig.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\bin\Debug\netcoreapp3.1\WorkingDayOrNot.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\bin\Debug\netcoreapp3.1\WorkingDayOrNot.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\bin\Debug\netcoreapp3.1\WorkingDayOrNot.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\WorkingDayOrNot\obj\Debug\netcoreapp3.1\WorkingDayOrNot.genruntimeconfig.cache
