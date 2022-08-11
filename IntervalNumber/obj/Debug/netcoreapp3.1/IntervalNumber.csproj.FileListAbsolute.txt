@@ -1,0 +1,13 @@
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\bin\Debug\netcoreapp3.1\IntervalNumber.exe
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\bin\Debug\netcoreapp3.1\IntervalNumber.deps.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\bin\Debug\netcoreapp3.1\IntervalNumber.runtimeconfig.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\bin\Debug\netcoreapp3.1\IntervalNumber.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\bin\Debug\netcoreapp3.1\IntervalNumber.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\bin\Debug\netcoreapp3.1\IntervalNumber.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\IntervalNumber\obj\Debug\netcoreapp3.1\IntervalNumber.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\bin\Debug\netcoreapp3.1\NeghborhoodStore.exe
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\bin\Debug\netcoreapp3.1\NeghborhoodStore.deps.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\bin\Debug\netcoreapp3.1\NeghborhoodStore.runtimeconfig.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\bin\Debug\netcoreapp3.1\NeghborhoodStore.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\bin\Debug\netcoreapp3.1\NeghborhoodStore.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\bin\Debug\netcoreapp3.1\NeghborhoodStore.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.dll
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.pdb
+C:\Users\Skynet\source\repos\NestedConditionalStatements\NeghborhoodStore\obj\Debug\netcoreapp3.1\NeghborhoodStore.genruntimeconfig.cache
