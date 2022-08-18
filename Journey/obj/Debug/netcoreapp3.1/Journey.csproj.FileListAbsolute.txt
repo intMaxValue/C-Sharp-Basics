@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache
