@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.exe
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.deps.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\bin\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OperationsBetweenNumbers\obj\Debug\netcoreapp3.1\OperationsBetweenNumbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.exe
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.deps.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.runtimeconfig.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\bin\Debug\netcoreapp3.1\OnTimeForExam.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\OnTimeForExam\obj\Debug\netcoreapp3.1\OnTimeForExam.genruntimeconfig.cache
