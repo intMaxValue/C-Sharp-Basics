@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.exe
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.deps.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\bin\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.dll
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.pdb
+C:\Users\Skynet\source\repos\Conditional Statements Advanced - Exercise\SummerOutfit\obj\Debug\netcoreapp3.1\SummerOutfit.genruntimeconfig.cache
