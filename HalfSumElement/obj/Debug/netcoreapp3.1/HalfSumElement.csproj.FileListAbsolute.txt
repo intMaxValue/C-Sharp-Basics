@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.exe
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.deps.json
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.json
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\bin\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.dll
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.pdb
+C:\Users\Skynet\source\repos\ForLoops\HalfSumElement\obj\Debug\netcoreapp3.1\HalfSumElement.genruntimeconfig.cache
