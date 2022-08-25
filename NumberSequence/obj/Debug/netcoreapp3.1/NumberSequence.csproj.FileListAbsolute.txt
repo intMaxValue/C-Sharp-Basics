@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.exe
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.deps.json
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.json
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\bin\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.dll
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.pdb
+C:\Users\Skynet\source\repos\ForLoops\NumberSequence\obj\Debug\netcoreapp3.1\NumberSequence.genruntimeconfig.cache
