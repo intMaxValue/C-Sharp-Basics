@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\bin\Debug\netcoreapp3.1\SmartLily.exe
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\bin\Debug\netcoreapp3.1\SmartLily.deps.json
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\bin\Debug\netcoreapp3.1\SmartLily.runtimeconfig.json
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\bin\Debug\netcoreapp3.1\SmartLily.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\bin\Debug\netcoreapp3.1\SmartLily.dll
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\bin\Debug\netcoreapp3.1\SmartLily.pdb
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.dll
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.pdb
+C:\Users\Skynet\source\repos\ForLoops\SmartLily\obj\Debug\netcoreapp3.1\SmartLily.genruntimeconfig.cache
