@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\bin\Debug\netcoreapp3.1\SumOfVowels.exe
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\bin\Debug\netcoreapp3.1\SumOfVowels.deps.json
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\bin\Debug\netcoreapp3.1\SumOfVowels.runtimeconfig.json
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\bin\Debug\netcoreapp3.1\SumOfVowels.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\bin\Debug\netcoreapp3.1\SumOfVowels.dll
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\bin\Debug\netcoreapp3.1\SumOfVowels.pdb
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.dll
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.pdb
+C:\Users\Skynet\source\repos\ForLoops\SumOfVowels\obj\Debug\netcoreapp3.1\SumOfVowels.genruntimeconfig.cache
