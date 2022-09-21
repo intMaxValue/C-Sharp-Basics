@@ -1,0 +1,14 @@
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.exe
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.deps.json
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.runtimeconfig.json
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.runtimeconfig.dev.json
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.dll
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\bin\Debug\netcoreapp3.1\BachelorParty.pdb
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.dll
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.pdb
+C:\Users\Skynet\source\repos\ExamExercise\BachelorParty\obj\Debug\netcoreapp3.1\BachelorParty.genruntimeconfig.cache
